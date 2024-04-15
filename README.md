@@ -2,7 +2,7 @@
 
 ### Project Name : development chronicle
 
-게임 하러 가기 : https://junwon-hwang.github.io/
+게임 하러 가기 : https://hgb926.github.io/
 
 <br>
 
